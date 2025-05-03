@@ -21,7 +21,7 @@ const About = () => {
             </div>
             <div className="flex items-center gap-3 text-gray-300">
               <Code2 className="text-[#6049ea]" />
-              <span>Full Stack Developer</span>
+              <span>Software Engineer</span>
             </div>
             
             <p className="text-gray-300 leading-relaxed">
