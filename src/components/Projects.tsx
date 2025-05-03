@@ -32,7 +32,7 @@ const Projects = () => {
       description: 'LibrApi is a .NET 8 library designed to streamline the development of RESTful APIs using C# and Entity Framework. It encapsulates common patterns such as CRUD operations, pagination, filtering, sorting, searching, partial responses, structured logging, and API versioning. The goal is to provide a robust, extensible, and developer-friendly foundation that minimizes repetitive code while ensuring clean architecture and maintainability across projects.',
       image: 'https://images.unsplash.com/photo-1690585703267-de31ea667ef0?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       tech: ['C#', '.Net', 'Swagger', 'SQL Server', 'Entity Framework', 'Postman'],
-      github: 'git@github.com:LuckMeelo/libra-api.git',
+      github: 'https://github.com/LuckMeelo/libra-api',
       live: null,
     },
   ];
